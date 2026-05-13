@@ -15,7 +15,7 @@
 <h2 align="center">✨ Sobre Mim ✨</h2>
 
 <p align="center">
-  Sou um <strong>desenvolvedor Full Stack</strong> com <strong>5 anos de experiência</strong> em programação, impulsionado pela paixão em criar soluções inovadoras e eficientes. Apesar da minha idade, minha jornada na tecnologia é marcada por um aprendizado contínuo e pela busca incessante por excelência. Atualmente, lidero a <strong><a href="https://discord.gg/XQdyZP558n">Black Store</a></strong>, uma comunidade vibrante no Discord dedicada ao universo da programação e tecnologia, onde compartilhamos conhecimento e construímos o futuro juntos.
+  Sou um <strong>desenvolvedor Full Stack</strong> com <strong>5 anos de experiência</strong> em programação, impulsionado pela paixão em criar soluções inovadoras e eficientes. Apesar da minha idade, minha jornada na tecnologia é marcada por um aprendizado contínuo e pela busca incessante por excelência. Atualmente, lidero a <strong><a href="https://discord.gg/XQdyZP558n">Black Store</a></strong>, uma **loja** vibrante no Discord dedicada ao universo da programação e tecnologia, oferecendo produtos e serviços de alta qualidade, onde compartilhamos conhecimento e construímos o futuro juntos.
 </p>
 
 ---
@@ -41,10 +41,10 @@
 
 ---
 
-<h2 align="center">🖤 Black Store 🖤</h2>
+<h2 align="center">🛍️ Black Store 🛍️</h2>
 
 <p align="center">
-  Junte-se à nossa comunidade no Discord e faça parte de algo grandioso!
+  Visite nossa loja no Discord e descubra produtos incríveis!
   <br>
   <a href="https://discord.gg/XQdyZP558n">
     <img src="https://img.shields.io/badge/Discord-Black%20Store-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Black Store Discord"/>
@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  Feito com ❤️ por Gabriel
+  Feito com ✨ por Gabriel
 </p>
